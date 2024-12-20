@@ -53,11 +53,11 @@ button:hover {
 
 .pageheader p {
     line-height: 0;
-    font-size: 1em;
+    font-size: 15px;
 }
 .pageheader h1 {
     line-height: 0;
-    font-size: 2em;
+    font-size: 20px;
 }
 
 footer {
